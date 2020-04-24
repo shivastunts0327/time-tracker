@@ -3,8 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good afn!!
-hello 
-
-
-hello 1
+Hello Good Aftn....24-04-20
